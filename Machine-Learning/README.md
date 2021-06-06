@@ -1,18 +1,10 @@
-# Data Science :chart_with_upwards_trend:
-
----
+# Machine Learning Page :chart_with_upwards_trend:
 
 :raising_hand_man: <b> Author:</b> Raghavendra Tapas
 
-<b> Updated on:</b> May 2021
-
 <b> Context:</b> My Journey so far. Under Active Development! Feel free to contribute to the projects.
 
-## On-going Projects :hammer_and_pick:
-
-- Building a machine learning model for the Bull Dozer Price Prediction using Kaggle Dataset.
-
-### Python Programming
+## Python Programming
 
 - Basics Syntax - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/raghutapas12/ml01-Python/01-python-syntax.ipynb)
 
