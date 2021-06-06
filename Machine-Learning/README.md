@@ -59,14 +59,6 @@
 
 - Operations and Supply Chain - [My Notion Blog](https://www.notion.so/raghavendratapas/Operations-and-Supply-Chain-4fdc2e3d49584304ae0529425a20ee80) :heavy_check_mark:
 
----
-
-### :world_map: Documentation Roadmap
-
-- June 2021 - Machine Learning Models
-- July 2021 - Deep Learning Models
-- August 2021 onwards - Working on Kaggle Datasets.
-
 ### :telephone_receiver: Contact:
 
 <b>Email:</b> raghutapas12@gmail.com .
