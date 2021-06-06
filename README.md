@@ -12,11 +12,11 @@ Under Active Development.
 
 This is a concise roadmap of how the repository is going to look like in the upcoming days.
 
-- June 2021 - Machine Learning Models (Updated)
-  - A refresher to python and data science relevant libraries like numpy, pandas, matplot lib, seaborn.
-  - 
-- July 2021 - Deep Learning Models
-- August 2021 onwards - Working on Kaggle Datasets.
+- JMachine Learning Models (Updated)
+  - Python - Basic syntax, numpy, pandas, matplotlib, seaborn.
+  - Machine learning - Linear regression, logistic regression, classification methods, gradient descent, cost function, decision trees, support vector machines, Naive Bayes formulation, Hyper parameter tuning.
+- Machine Learning Project Deployment
+- PowerBI - Sales Insights Project
 
 ### :telephone_receiver: Contact:
 
