@@ -14,9 +14,18 @@ This is a concise roadmap of how the repository is going to look like in the upc
 
 - JMachine Learning Models (Updated)
   - Python - Basic syntax, numpy, pandas, matplotlib, seaborn.
-  - Machine learning - Linear regression, logistic regression, classification methods, gradient descent, cost function, decision trees, support vector machines, Naive Bayes formulation, Hyper parameter tuning.
-- Machine Learning Project Deployment
+  - Machine learning
+    - Regression methods
+    - Classification methods
+    - Gradient Descent
+    - Cost Function
+    - Decision Trees
+    - Support Vector Machines
+    - Naive Bayes Formulation
+    - Hyper parameter Tuning
+- Project Deployment - Real Estate Price Estimation
 - PowerBI - Sales Insights Project
+- Deep Learning Concepts
 
 ### :telephone_receiver: Contact:
 
