@@ -13,7 +13,7 @@
 - NumPy - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/raghutapas12/ml03-Numpy/03-numpy.ipynb)
 - Pandas - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/raghutapas12/ml02-Pandas/02-pandas.ipynb)
 - MatplotLib - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/raghutapas12/ml04-Matplot/04-matplot-visuals.ipynb)
-- Seaborn - :part_alternation_mark:
+- Seaborn
 - Scikit Overview
   1. Heart Disease Prediction - Classification Problem
   2. Car Price Prediction - Regression
@@ -29,14 +29,14 @@
 
 * Simple, multi-class classification, GridSearchCV - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/raghutapas12/ml05-Regression/04-Logistic_Regression.ipynb)
 
-- Decision Tree :part_alternation_mark:
-- Support Vector Machine (SVM) :part_alternation_mark:
-- Random Forest :part_alternation_mark:
-- K-Fold Cross-Validation :part_alternation_mark:
-- K-Means Clustering :part_alternation_mark:
-- Naive Bayes :part_alternation_mark:
-- Hyper Parameter Tuning :part_alternation_mark:
-- L1 and L2 Regularization :part_alternation_mark:
+- Decision Tree
+- Support Vector Machine (SVM)
+- Random Forest
+- K-Fold Cross-Validation
+- K-Means Clustering
+- Naive Bayes Formulation
+- Hyper Parameter Tuning
+- L1 and L2 Regularization
 
 ### Query Languages
 
