@@ -14,8 +14,12 @@
   - Google COVID-19 Mobility - Tableau - [Dashboard Preview](https://public.tableau.com/profile/paheci.fico#!/vizhome/RaghavendraTapas-GoogleMobilityReport/Dashboard1?publish=yes)
   - Business Sales Insights - PowerBI :part_alternation_mark:
 
+### SQL
+  - Relational Database - PostGRE SQL - My Notion Blog: [Link](https://www.notion.so/raghavendratapas/PostGreSQL-67e6d33f43f24a0a8050cbd55d6e0796)
+
 ### Python 
   - Basic syntax
+    - Notion Blog for a deeper Dive into Python. [Link](https://www.notion.so/raghavendratapas/Python-102ff321e28741a899e72ea6c1c293f0)
   - Numpy
   - Pandas
   - Matplotlib and Seaborn
