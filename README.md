@@ -12,7 +12,7 @@ Under Active Development.
 
 This is a concise roadmap of how the repository is going to look like in the upcoming days.
 
-- Machine Learning [Repository](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning)
+- Machine Learning Models (Updated)
   - Python - Basic syntax, numpy, pandas, matplotlib, seaborn.
   - Machine learning
     - Regression methods
@@ -25,8 +25,12 @@ This is a concise roadmap of how the repository is going to look like in the upc
     - Hyper parameter Tuning
     - Regularization
 - Project Deployment - Real Estate Price Estimation
-- PowerBI - Sales Insights Project
 - Deep Learning Concepts
+
+### Visualization Projects
+
+- Google COVID-19 Mobility - Tableau - [Dashboard Preview](https://public.tableau.com/profile/paheci.fico#!/vizhome/RaghavendraTapas-GoogleMobilityReport/Dashboard1?publish=yes)
+- Business Sales Insights - PowerBI
 
 ### :telephone_receiver: Contact:
 
