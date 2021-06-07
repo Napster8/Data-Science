@@ -23,6 +23,7 @@ This is a concise roadmap of how the repository is going to look like in the upc
     - Support Vector Machines
     - Naive Bayes Formulation
     - Hyper parameter Tuning
+    - Regularization
 - Project Deployment - Real Estate Price Estimation
 - PowerBI - Sales Insights Project
 - Deep Learning Concepts
