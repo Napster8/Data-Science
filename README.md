@@ -12,7 +12,7 @@
 ### Visualization Projects
 
   - Google COVID-19 Mobility - Tableau - [Dashboard Preview](https://public.tableau.com/profile/paheci.fico#!/vizhome/RaghavendraTapas-GoogleMobilityReport/Dashboard1?publish=yes)
-  - Business Sales Insights - PowerBI (Github Repo)[https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insights]
+  - Business Sales Insights - PowerBI [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insights)
 
 ### SQL
   - Relational Database - PostGRE SQL - My Notion Blog: [Link](https://www.notion.so/raghavendratapas/PostGreSQL-67e6d33f43f24a0a8050cbd55d6e0796)
