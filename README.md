@@ -12,7 +12,7 @@ Under Active Development.
 
 This is a concise roadmap of how the repository is going to look like in the upcoming days.
 
-- Machine Learning Models (Updated)
+- Machine Learning [Repository](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning)
   - Python - Basic syntax, numpy, pandas, matplotlib, seaborn.
   - Machine learning
     - Regression methods
