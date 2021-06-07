@@ -18,6 +18,7 @@
 ### Machine Learning :robot: [Github Repo](https://github.com/Napster8/Data-Science)
 
 - Regression and Decision Trees - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/05-Regression)
+- Encoding Methods - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/06-preprocessing)
 - Support Vector Machines, Random Forest, Cross Validation, K-Clustering - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/08-Support-vector-machines)
 - Naive Bayes Formulation [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/09-Naive-Bayes-Formulation)
 - Hyper Parameter Tuning and Regularization [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/10-Hyper-Parameter-Tuning)
