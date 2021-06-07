@@ -12,7 +12,7 @@ Under Active Development.
 
 This is a concise roadmap of how the repository is going to look like in the upcoming days.
 
-- JMachine Learning Models (Updated)
+- Machine Learning Models (Updated)
   - Python - Basic syntax, numpy, pandas, matplotlib, seaborn.
   - Machine learning
     - Regression methods
