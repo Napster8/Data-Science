@@ -34,7 +34,7 @@
   - Regularization
   - Project Deployment - Real Estate Price Estimation :part_alternation_mark:
  
-### Deep Learning
+### Deep Learning :part_alternation_mark:
 
 
 
