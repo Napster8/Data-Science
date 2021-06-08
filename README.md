@@ -2,8 +2,6 @@
 
 :raising_hand_man: <b> Author:</b> Raghavendra Tapas
 
-<b> Context:</b> This repository is built to enlist all the core concepts and projects that I have done so far. Also a Super Concise Roadmap of my learnings aiming to be a Free Repository for the Beginners to Deep Dive into different worlds. 
-
 
 ## :world_map: Roadmap
 
