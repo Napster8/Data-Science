@@ -23,5 +23,6 @@
 - Naive Bayes Formulation [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/09-Naive-Bayes-Formulation)
 - Hyper Parameter Tuning and Regularization [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/10-Hyper-Parameter-Tuning)
 
-
+### Projects:
+- COVID-Age Risk Factor - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor)
 
