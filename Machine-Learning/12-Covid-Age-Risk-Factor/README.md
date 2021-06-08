@@ -8,7 +8,7 @@ Please raise issues or feel free to start a discussion in-case there are any cor
 
 https://www.kaggle.com/saurabhshahane/covid19-age-risk-factor
 
-## Kaggle: Submitted on: 8th June 2021
+## Kaggle: Solution Submitted on: 8th June 2021
 
 https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis
 
@@ -24,3 +24,4 @@ Medina, Michael Arieh (2020), “Data for: Age as a Risk Factor of COVID-19 Mort
 
 <b> Question: Given the age, find out the chances of recovery. </b>
 
+Solution is available in this repo: [Click Here](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor/codebook.ipynb)
