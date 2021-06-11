@@ -8,7 +8,7 @@
 #### Projects
 
 * Real Estate Price Estimation [Github Repo](https://github.com/Napster8/real-estate-price-predictor)
-* COVID-19 Age Risk Analysis [Github Repo](https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis)
+* COVID-19 Age Risk Analysis [Kaggle Submission](https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis) - The first one to carry out the analysis.
 
 ### Visualization Projects
 
