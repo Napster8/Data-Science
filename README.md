@@ -32,7 +32,7 @@
   - Naive Bayes Formulation
   - Hyper parameter Tuning
   - Regularization
-  - Project Deployment - Real Estate Price Estimation :part_alternation_mark:
+  - Project Deployment - Real Estate Price Estimation [Github Repo](https://github.com/Napster8/real-estate-price-predictor)
  
 ### Deep Learning :part_alternation_mark:
 
