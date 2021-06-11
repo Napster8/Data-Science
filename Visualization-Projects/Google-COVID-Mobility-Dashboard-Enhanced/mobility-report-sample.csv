@@ -1,0 +1,1018 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,01-01-2021,-23,11,-6,-11,-29,14
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,02-01-2021,-31,7,-19,-10,-8,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,03-01-2021,-32,1,-13,-5,0,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,04-01-2021,-28,9,-17,-9,-16,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,05-01-2021,-29,7,-18,-10,-19,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,06-01-2021,-26,11,-16,-8,-14,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,07-01-2021,-25,12,-13,-9,-15,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,08-01-2021,-25,15,-13,-9,-14,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,09-01-2021,-27,11,-14,-10,-10,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,10-01-2021,-26,8,-7,-6,3,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,11-01-2021,-24,14,-10,-11,-16,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,12-01-2021,-24,14,-10,-10,-19,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,13-01-2021,-24,16,-15,-9,-20,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,14-01-2021,-33,-5,-14,-24,-41,13
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,15-01-2021,-33,-1,-17,-23,-32,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,16-01-2021,-33,-3,-19,-20,-19,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,17-01-2021,-32,-5,-14,-14,-9,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,18-01-2021,-28,4,-15,-17,-22,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,19-01-2021,-28,3,-15,-18,-23,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,20-01-2021,-27,6,-17,-16,-20,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,21-01-2021,-27,5,-15,-16,-19,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,22-01-2021,-27,8,-15,-15,-18,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,23-01-2021,-29,4,-15,-14,-12,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,24-01-2021,-29,1,-8,-10,-2,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,25-01-2021,-24,9,-8,-14,-21,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,26-01-2021,-25,3,-1,-21,-50,16
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,27-01-2021,-27,8,-14,-12,-17,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,28-01-2021,-27,6,-13,-14,-19,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,29-01-2021,-27,13,-16,-13,-16,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,30-01-2021,-28,12,-17,-10,-7,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,31-01-2021,-28,10,-12,-6,-2,5
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,01-02-2021,-25,15,-14,-11,-19,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,02-02-2021,-24,16,-14,-10,-20,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,03-02-2021,-25,15,-19,-10,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,04-02-2021,-26,11,-19,-13,-19,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,05-02-2021,-25,18,-18,-11,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,06-02-2021,-26,14,-19,-9,-8,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,07-02-2021,-25,9,-11,-5,-6,5
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,08-02-2021,-24,16,-16,-10,-19,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,09-02-2021,-23,17,-15,-9,-20,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,10-02-2021,-22,19,-18,-7,-16,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,11-02-2021,-23,16,-15,-9,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,12-02-2021,-21,20,-15,-7,-16,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,13-02-2021,-22,16,-12,-6,-14,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,14-02-2021,-18,14,-4,0,-6,4
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,15-02-2021,-20,18,-9,-6,-20,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,16-02-2021,-21,14,-7,-6,-25,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,17-02-2021,-22,17,-14,-5,-17,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,18-02-2021,-22,16,-14,-6,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,19-02-2021,-22,19,-14,-6,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,20-02-2021,-22,16,-12,-4,-6,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,21-02-2021,-23,12,-7,-2,-6,5
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,22-02-2021,-22,16,-11,-7,-17,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,23-02-2021,-22,16,-11,-7,-18,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,24-02-2021,-21,18,-14,-5,-14,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,25-02-2021,-22,17,-13,-6,-16,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,26-02-2021,-22,19,-14,-6,-16,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,27-02-2021,-23,16,-12,-6,-11,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,28-02-2021,-23,13,-7,-3,-2,5
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,01-03-2021,-21,20,-10,-7,-15,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,02-03-2021,-22,18,-11,-7,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,03-03-2021,-20,22,-13,-4,-13,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,04-03-2021,-21,20,-12,-6,-14,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,05-03-2021,-20,23,-13,-5,-14,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,06-03-2021,-21,20,-12,-4,-4,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,07-03-2021,-21,16,-6,-3,-3,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,08-03-2021,-19,21,-9,-6,-15,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,09-03-2021,-20,20,-10,-6,-16,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,10-03-2021,-19,25,-11,-2,-13,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,11-03-2021,-22,18,-6,-10,-31,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,12-03-2021,-21,21,-13,-5,-15,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,13-03-2021,-22,18,-11,-6,-11,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,14-03-2021,-22,15,-7,-2,-3,6
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,15-03-2021,-20,20,-8,-5,-16,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,16-03-2021,-22,17,-11,-7,-17,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,17-03-2021,-21,21,-14,-5,-11,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,18-03-2021,-22,19,-12,-6,-13,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,19-03-2021,-21,24,-13,-5,-11,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,20-03-2021,-22,19,-12,-4,-2,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,21-03-2021,-24,14,-9,-4,-2,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,22-03-2021,-21,21,-10,-7,-13,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,23-03-2021,-21,19,-11,-7,-15,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,24-03-2021,-19,23,-13,-4,-12,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,25-03-2021,-19,23,-12,-4,-13,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,26-03-2021,-21,25,-13,-5,-14,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,27-03-2021,-21,25,-12,-2,-8,7
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,28-03-2021,-30,10,-15,-11,-7,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,29-03-2021,-41,-15,-22,-34,-57,21
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,30-03-2021,-26,13,-15,-12,-25,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,31-03-2021,-22,20,-15,-7,-16,9
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,01-04-2021,-22,20,-13,-8,-18,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,02-04-2021,-22,25,-13,-11,-30,13
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,03-04-2021,-24,21,-13,-7,-7,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,04-04-2021,-28,12,-13,-8,-5,8
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,05-04-2021,-22,23,-11,-9,-19,10
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,06-04-2021,-28,17,-13,-12,-26,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,07-04-2021,-25,21,-17,-9,-18,11
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,08-04-2021,-26,20,-16,-11,-19,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,09-04-2021,-24,25,-17,-10,-18,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,10-04-2021,-35,6,-24,-22,-22,14
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,11-04-2021,-36,3,-23,-20,-11,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,12-04-2021,-25,27,-15,-13,-22,12
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,13-04-2021,-30,17,-19,-18,-36,16
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,14-04-2021,-34,13,-23,-20,-39,17
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,15-04-2021,-35,8,-25,-22,-28,15
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,16-04-2021,-36,12,-27,-21,-26,16
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,17-04-2021,-45,-4,-34,-31,-25,18
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,18-04-2021,-52,-18,-37,-34,-25,17
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,19-04-2021,-37,12,-26,-24,-30,17
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,20-04-2021,-42,3,-31,-29,-36,19
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,21-04-2021,-44,-1,-35,-31,-41,21
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,22-04-2021,-45,-2,-34,-32,-36,19
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,23-04-2021,-46,2,-35,-32,-37,20
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,24-04-2021,-59,-22,-44,-43,-42,23
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,25-04-2021,-67,-36,-47,-50,-37,22
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,26-04-2021,-46,1,-33,-35,-40,20
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,27-04-2021,-49,-4,-35,-35,-42,21
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,28-04-2021,-52,-9,-39,-38,-42,22
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,29-04-2021,-53,-12,-39,-40,-44,23
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,30-04-2021,-51,-3,-38,-37,-43,22
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,01-05-2021,-64,-28,-48,-49,-53,26
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,02-05-2021,-69,-39,-50,-54,-40,22
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,03-05-2021,-55,-14,-40,-43,-47,23
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,04-05-2021,-57,-15,-40,-43,-49,24
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,05-05-2021,-59,-20,-44,-44,-48,24
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,06-05-2021,-61,-23,-44,-47,-49,25
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,07-05-2021,-61,-17,-43,-46,-48,25
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,08-05-2021,-64,-26,-47,-49,-46,25
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,09-05-2021,-64,-30,-47,-47,-33,20
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,10-05-2021,-64,-26,-44,-53,-52,27
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,11-05-2021,-63,-24,-44,-51,-53,26
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,01-01-2021,-5,,-13,50,10,13
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,02-01-2021,5,,-16,66,30,11
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,03-01-2021,-5,,3,57,27,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,04-01-2021,2,,-18,67,28,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,05-01-2021,-5,,-17,63,24,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,06-01-2021,6,,-20,67,28,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,07-01-2021,1,,-15,65,27,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,08-01-2021,9,,-19,66,30,11
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,09-01-2021,10,,-14,63,18,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,10-01-2021,-4,,5,49,29,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,11-01-2021,8,,-18,60,30,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,12-01-2021,2,,-25,55,23,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,13-01-2021,15,,-19,62,23,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,14-01-2021,-11,,-9,23,-36,17
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,15-01-2021,7,,-24,38,14,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,16-01-2021,5,,-25,36,17,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,17-01-2021,-5,,2,33,14,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,18-01-2021,6,,-18,44,18,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,19-01-2021,2,,-16,42,17,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,20-01-2021,8,,-19,48,21,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,21-01-2021,5,,-16,44,20,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,22-01-2021,12,,-17,51,24,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,23-01-2021,13,,-15,52,24,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,24-01-2021,1,,6,46,25,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,25-01-2021,16,,-9,61,24,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,26-01-2021,-1,,8,35,-38,17
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,27-01-2021,13,,-12,60,24,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,28-01-2021,10,,-10,47,23,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,29-01-2021,14,,-16,54,26,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,30-01-2021,15,,-16,55,29,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,31-01-2021,11,,6,51,25,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,01-02-2021,19,,-14,55,21,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,02-02-2021,7,,-16,56,16,1
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,03-02-2021,11,,-18,57,19,2
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,04-02-2021,3,,-19,42,14,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,05-02-2021,9,,-20,48,19,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,06-02-2021,15,,-18,52,20,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,07-02-2021,1,,4,50,18,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,08-02-2021,4,,-23,46,16,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,09-02-2021,11,,-16,59,19,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,10-02-2021,12,,-16,60,21,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,11-02-2021,11,,-10,59,20,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,12-02-2021,24,,-7,63,23,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,13-02-2021,19,,-9,54,8,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,14-02-2021,18,,17,57,19,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,15-02-2021,16,,-11,58,20,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,16-02-2021,15,,-9,60,16,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,17-02-2021,22,,-12,70,22,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,18-02-2021,18,,-8,61,20,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,19-02-2021,24,,-8,62,24,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,20-02-2021,25,,-5,65,27,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,21-02-2021,16,,22,69,24,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,22-02-2021,19,,0,67,21,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,23-02-2021,16,,-3,68,19,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,24-02-2021,24,,-2,77,24,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,25-02-2021,18,,0,67,23,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,26-02-2021,17,,-1,67,25,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,27-02-2021,21,,-1,67,26,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,28-02-2021,16,,21,64,26,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,01-03-2021,23,,2,74,25,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,02-03-2021,24,,0,75,23,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,03-03-2021,27,,0,81,23,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,04-03-2021,21,,-3,69,23,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,05-03-2021,25,,-4,69,27,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,06-03-2021,27,,0,69,31,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,07-03-2021,22,,18,72,21,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,08-03-2021,23,,0,64,25,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,09-03-2021,19,,-1,65,20,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,10-03-2021,30,,0,81,25,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,11-03-2021,24,,7,72,10,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,12-03-2021,30,,-4,67,25,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,13-03-2021,28,,2,71,17,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,14-03-2021,20,,24,70,20,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,15-03-2021,28,,1,70,25,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,16-03-2021,22,,-4,63,21,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,17-03-2021,31,,2,74,27,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,18-03-2021,27,,8,68,26,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,19-03-2021,35,,2,68,31,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,20-03-2021,34,,7,71,33,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,21-03-2021,28,,35,59,24,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,22-03-2021,26,,8,69,29,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,23-03-2021,25,,2,66,25,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,24-03-2021,40,,-1,72,28,3
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,25-03-2021,37,,5,63,27,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,26-03-2021,32,,-3,60,26,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,27-03-2021,41,,4,63,30,1
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,28-03-2021,35,,33,65,31,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,29-03-2021,0,,11,35,-50,20
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,30-03-2021,35,,0,72,27,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,31-03-2021,31,,-1,78,27,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,01-04-2021,27,,-7,72,28,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,02-04-2021,23,,-9,52,-28,18
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,03-04-2021,44,,-4,74,30,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,04-04-2021,29,,18,64,24,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,05-04-2021,48,,-2,76,30,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,06-04-2021,39,,-3,72,27,5
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,07-04-2021,38,,-2,80,29,4
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,08-04-2021,39,,-1,67,31,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,09-04-2021,44,,-10,70,34,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,10-04-2021,44,,-9,72,21,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,11-04-2021,31,,15,52,28,9
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,12-04-2021,48,,-3,68,28,6
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,13-04-2021,42,,-7,64,16,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,14-04-2021,25,,-11,51,-25,16
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,15-04-2021,30,,-10,58,27,7
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,16-04-2021,15,,-20,49,30,12
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,17-04-2021,23,,-18,51,32,11
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,18-04-2021,7,,-2,40,26,13
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,19-04-2021,22,,-18,49,26,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,20-04-2021,18,,-20,46,22,10
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,21-04-2021,19,,-23,44,11,12
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,22-04-2021,11,,-26,39,20,12
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,23-04-2021,15,,-29,29,22,14
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,24-04-2021,2,,-34,23,16,16
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,25-04-2021,-19,,-28,2,14,18
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,26-04-2021,5,,-29,23,18,14
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,27-04-2021,1,,-34,18,15,14
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,28-04-2021,2,,-34,21,14,13
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,29-04-2021,3,,-33,17,14,16
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,30-04-2021,12,,-35,22,17,16
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,01-05-2021,24,,-37,26,6,16
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,02-05-2021,-65,,-49,-30,-14,28
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,03-05-2021,-55,,-51,-28,-20,29
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,04-05-2021,-51,,-49,-22,-20,27
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,05-05-2021,-48,,-47,-19,-20,26
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,06-05-2021,-51,,-47,-20,-21,27
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,07-05-2021,-50,,-50,-23,-20,30
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,08-05-2021,-51,,-49,-19,-25,31
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,09-05-2021,-55,,-45,-28,-9,27
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,10-05-2021,-48,,-47,-20,-17,28
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,11-05-2021,-46,,-47,-16,-20,28
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,01-01-2021,,,,,6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,02-01-2021,,,,,32,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,04-01-2021,,,,,25,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,05-01-2021,,,,,22,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,06-01-2021,,,,,23,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,07-01-2021,,,,,24,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,08-01-2021,,,,,26,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,09-01-2021,,,,,38,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,11-01-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,12-01-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,13-01-2021,,,,,14,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,14-01-2021,,,,,-31,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,15-01-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,16-01-2021,,,,,41,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,18-01-2021,,,,,18,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,19-01-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,20-01-2021,,,,,15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,21-01-2021,,,,,18,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,22-01-2021,,,,,30,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,25-01-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,26-01-2021,,,,,-20,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,27-01-2021,,,,,22,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,28-01-2021,,,,,24,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,29-01-2021,,,,,22,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,01-02-2021,,,,,15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,02-02-2021,,,,,11,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,03-02-2021,,,,,11,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,04-02-2021,,,,,0,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,05-02-2021,,,,,-8,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,06-02-2021,,,,,10,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,08-02-2021,,,,,-3,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,09-02-2021,,,,,13,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,10-02-2021,,,,,16,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,11-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,12-02-2021,,,,,16,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,13-02-2021,,,,,3,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,15-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,16-02-2021,,,,,7,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,17-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,18-02-2021,,,,,5,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,19-02-2021,,,,,18,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,20-02-2021,,,,,33,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,22-02-2021,,,,,10,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,23-02-2021,,,,,13,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,24-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,25-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,26-02-2021,,,,,9,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,27-02-2021,,,,,29,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,01-03-2021,,,,,6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,02-03-2021,,,,,11,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,03-03-2021,,,,,10,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,04-03-2021,,,,,8,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,05-03-2021,,,,,10,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,06-03-2021,,,,,40,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,08-03-2021,,,,,15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,09-03-2021,,,,,8,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,10-03-2021,,,,,7,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,11-03-2021,,,,,-6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,12-03-2021,,,,,17,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,13-03-2021,,,,,21,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,15-03-2021,,,,,13,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,16-03-2021,,,,,-6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,17-03-2021,,,,,6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,18-03-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,19-03-2021,,,,,23,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,22-03-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,23-03-2021,,,,,20,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,24-03-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,25-03-2021,,,,,15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,26-03-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,27-03-2021,,,,,43,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,29-03-2021,,,,,-55,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,30-03-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,31-03-2021,,,,,13,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,01-04-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,02-04-2021,,,,,-35,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,03-04-2021,,,,,45,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,05-04-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,06-04-2021,,,,,16,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,07-04-2021,,,,,19,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,08-04-2021,,,,,22,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,09-04-2021,,,,,21,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,10-04-2021,,,,,30,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,12-04-2021,,,,,12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,13-04-2021,,,,,6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,14-04-2021,,,,,-27,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,15-04-2021,,,,,16,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,16-04-2021,,,,,23,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,17-04-2021,,,,,46,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,19-04-2021,,,,,20,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,20-04-2021,,,,,29,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,21-04-2021,,,,,6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,22-04-2021,,,,,17,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,23-04-2021,,,,,28,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,24-04-2021,,,,,25,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,26-04-2021,,,,,18,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,27-04-2021,,,,,15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,28-04-2021,,,,,11,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,29-04-2021,,,,,16,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,30-04-2021,,,,,26,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,01-05-2021,,,,,33,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,03-05-2021,,,,,-14,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,04-05-2021,,,,,-15,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,05-05-2021,,,,,-12,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,06-05-2021,,,,,-18,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,07-05-2021,,,,,-13,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,08-05-2021,,,,,-8,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,10-05-2021,,,,,-6,
+IN,India,Andaman and Nicobar Islands,North and Middle Andaman,,,,ChIJs5lpAH2kjzARilD7p7n6fns,11-05-2021,,,,,-4,
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,01-01-2021,-4,,-24,16,16,14
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,02-01-2021,5,,-27,67,34,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,03-01-2021,-3,,-10,58,23,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,04-01-2021,2,,-32,63,34,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,05-01-2021,-7,,-30,60,30,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,06-01-2021,4,,-29,60,33,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,07-01-2021,0,,-26,63,34,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,08-01-2021,7,,-30,28,37,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,09-01-2021,9,,-25,62,19,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,10-01-2021,-3,,-6,51,25,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,11-01-2021,7,,-30,58,38,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,12-01-2021,0,,-34,55,29,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,13-01-2021,12,,-28,59,28,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,14-01-2021,-10,,-19,23,-33,19
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,15-01-2021,7,,-34,7,20,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,16-01-2021,4,,-33,35,19,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,17-01-2021,-5,,-8,35,9,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,18-01-2021,5,,-30,41,23,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,19-01-2021,0,,-27,41,21,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,20-01-2021,6,,-28,44,26,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,21-01-2021,6,,-26,43,27,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,22-01-2021,11,,-29,18,30,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,23-01-2021,11,,-26,53,25,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,24-01-2021,2,,-7,48,20,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,25-01-2021,15,,-23,59,29,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,26-01-2021,-1,,-2,34,-37,19
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,27-01-2021,10,,-20,57,29,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,28-01-2021,11,,-19,47,30,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,29-01-2021,14,,-25,20,32,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,30-01-2021,14,,-26,55,30,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,31-01-2021,13,,-5,52,23,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,01-02-2021,19,,-26,52,27,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,02-02-2021,6,,-26,53,22,3
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,03-02-2021,8,,-26,53,25,4
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,04-02-2021,4,,-26,42,23,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,05-02-2021,8,,-27,18,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,06-02-2021,14,,-26,53,25,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,07-02-2021,3,,-5,52,17,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,08-02-2021,3,,-31,45,23,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,09-02-2021,8,,-26,58,24,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,10-02-2021,10,,-23,57,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,11-02-2021,11,,-20,57,27,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,12-02-2021,23,,-15,25,29,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,13-02-2021,19,,-17,54,11,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,14-02-2021,19,,8,56,13,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,15-02-2021,15,,-22,54,24,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,16-02-2021,12,,-19,58,20,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,17-02-2021,20,,-17,64,25,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,18-02-2021,19,,-17,59,24,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,19-02-2021,22,,-17,24,26,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,20-02-2021,25,,-12,62,26,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,21-02-2021,17,,15,70,18,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,22-02-2021,18,,-9,63,24,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,23-02-2021,14,,-10,66,22,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,24-02-2021,21,,-6,72,26,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,25-02-2021,19,,-6,65,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,26-02-2021,17,,-8,27,28,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,27-02-2021,20,,-9,64,25,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,28-02-2021,18,,14,65,22,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,01-03-2021,22,,-7,69,29,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,02-03-2021,21,,-7,73,25,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,03-03-2021,25,,-5,76,25,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,04-03-2021,23,,-10,68,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,05-03-2021,24,,-11,30,31,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,06-03-2021,27,,-8,67,31,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,07-03-2021,25,,9,72,15,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,08-03-2021,21,,-10,60,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,09-03-2021,16,,-9,62,23,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,10-03-2021,27,,-6,75,28,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,11-03-2021,25,,-1,71,15,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,12-03-2021,30,,-12,28,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,13-03-2021,28,,-6,69,15,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,14-03-2021,22,,18,71,15,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,15-03-2021,27,,-8,65,29,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,16-03-2021,21,,-9,61,24,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,17-03-2021,28,,-4,70,30,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,18-03-2021,27,,0,66,31,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,19-03-2021,34,,-6,29,33,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,20-03-2021,33,,0,69,31,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,21-03-2021,29,,27,60,19,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,22-03-2021,24,,-3,64,32,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,23-03-2021,22,,-7,63,27,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,24-03-2021,38,,-8,68,31,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,25-03-2021,38,,-6,62,31,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,26-03-2021,31,,-13,22,29,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,27-03-2021,41,,-5,61,28,2
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,28-03-2021,36,,23,65,24,5
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,29-03-2021,-1,,1,32,-49,22
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,30-03-2021,33,,-5,69,28,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,31-03-2021,28,,-7,73,29,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,01-04-2021,29,,-13,70,32,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,02-04-2021,23,,-16,17,-26,19
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,03-04-2021,45,,-11,72,28,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,04-04-2021,33,,11,65,18,9
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,05-04-2021,47,,-11,72,34,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,06-04-2021,38,,-11,70,29,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,07-04-2021,37,,-8,74,31,6
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,08-04-2021,40,,-10,65,35,7
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,09-04-2021,44,,-20,29,37,9
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,10-04-2021,44,,-16,67,20,11
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,11-04-2021,34,,6,50,21,10
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,12-04-2021,49,,-15,62,32,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,13-04-2021,40,,-15,60,18,9
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,14-04-2021,23,,-17,45,-24,18
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,15-04-2021,31,,-18,54,30,9
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,16-04-2021,13,,-29,12,32,14
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,17-04-2021,22,,-28,48,30,13
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,18-04-2021,8,,-12,38,17,14
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,19-04-2021,20,,-27,42,26,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,20-04-2021,15,,-30,40,21,12
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,21-04-2021,17,,-30,37,11,14
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,22-04-2021,11,,-36,33,21,14
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,23-04-2021,14,,-38,-3,22,15
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,24-04-2021,2,,-41,22,13,18
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,25-04-2021,-17,,-37,1,7,19
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,26-04-2021,3,,-37,18,18,16
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,27-04-2021,-2,,-45,13,14,16
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,28-04-2021,-1,,-44,14,13,17
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,29-04-2021,3,,-44,12,14,18
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,30-04-2021,10,,-45,-10,16,18
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,01-05-2021,22,,-46,20,1,18
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,02-05-2021,-65,,-60,-33,-21,29
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,03-05-2021,-56,,-61,-31,-21,33
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,04-05-2021,-53,,-58,-25,-22,30
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,05-05-2021,-51,,-57,-22,-21,30
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,06-05-2021,-51,,-57,-23,-22,30
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,07-05-2021,-51,,-61,-42,-21,33
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,08-05-2021,-52,,-59,-22,-29,33
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,09-05-2021,-56,,-56,-29,-16,29
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,10-05-2021,-49,,-57,-25,-19,32
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,11-05-2021,-48,,-56,-21,-23,31
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,01-01-2021,-16,24,-5,-7,-22,13
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,02-01-2021,-21,27,-15,-2,-1,11
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,03-01-2021,-21,21,-6,1,8,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,04-01-2021,-18,27,-14,1,-3,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,05-01-2021,-20,24,-15,-2,-5,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,06-01-2021,-17,29,-9,-2,-4,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,07-01-2021,-14,31,-10,-1,-6,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,08-01-2021,-13,33,-8,1,-5,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,09-01-2021,-12,33,-6,0,-11,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,10-01-2021,-8,28,-1,1,12,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,11-01-2021,-5,38,-4,2,-4,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,12-01-2021,2,52,1,11,-10,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,13-01-2021,-6,40,-2,2,-32,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,14-01-2021,-20,11,3,-13,-55,12
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,15-01-2021,-25,7,3,-18,-51,11
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,16-01-2021,-19,15,0,-8,-29,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,17-01-2021,-22,9,-1,-1,-8,2
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,18-01-2021,-16,23,-8,-2,-12,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,19-01-2021,-18,23,-10,-9,-11,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,20-01-2021,-18,26,-11,-8,-8,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,21-01-2021,-18,24,-14,-11,-8,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,22-01-2021,-19,23,-13,-11,-6,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,23-01-2021,-18,22,-9,-7,-4,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,24-01-2021,-20,17,-1,-8,3,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,25-01-2021,-16,24,-7,-8,-6,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,26-01-2021,-17,23,0,-12,-30,12
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,27-01-2021,-19,25,-12,-9,-4,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,28-01-2021,-18,25,-14,-10,-5,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,29-01-2021,-18,26,-16,-10,-4,8
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,30-01-2021,-19,29,-12,-6,0,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,31-01-2021,-19,25,-7,-5,5,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,01-02-2021,-18,31,-14,-6,-5,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,02-02-2021,-18,33,-13,-7,-6,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,03-02-2021,-18,33,-16,-9,-6,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,04-02-2021,-18,32,-19,-10,-8,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,05-02-2021,-17,31,-18,-10,-6,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,06-02-2021,-17,30,-16,-6,-3,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,07-02-2021,-18,21,-8,-6,-1,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,08-02-2021,-18,27,-17,-5,-10,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,09-02-2021,-20,26,-16,-8,-14,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,10-02-2021,-17,32,-17,-7,-8,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,11-02-2021,-17,32,-18,-8,-6,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,12-02-2021,-8,32,-14,1,-8,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,13-02-2021,-12,25,-7,-2,-20,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,14-02-2021,-8,24,0,2,-2,1
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,15-02-2021,-13,28,-11,-1,-7,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,16-02-2021,-15,27,-11,-2,-9,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,17-02-2021,-16,29,-13,-5,-9,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,18-02-2021,-14,35,-14,-2,-7,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,19-02-2021,-16,25,-18,-5,-5,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,20-02-2021,-14,28,-12,-1,-2,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,21-02-2021,-17,20,-7,-4,-3,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,22-02-2021,-14,29,-11,-1,-5,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,23-02-2021,-15,27,-11,-4,-5,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,24-02-2021,-15,31,-13,-5,-3,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,25-02-2021,-15,30,-15,-5,-5,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,26-02-2021,-14,30,-15,-4,-3,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,27-02-2021,-14,28,-10,-3,-2,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,28-02-2021,-14,25,-6,-2,2,3
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,01-03-2021,-15,30,-12,-2,-1,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,02-03-2021,-15,31,-12,-4,-3,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,03-03-2021,-15,34,-13,-5,-2,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,04-03-2021,-14,35,-14,-4,-3,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,05-03-2021,-18,28,-16,-13,-13,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,06-03-2021,-13,33,-10,-2,4,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,07-03-2021,-15,28,-4,-3,3,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,08-03-2021,-14,31,-10,-3,-4,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,09-03-2021,-14,32,-10,-1,-7,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,10-03-2021,-20,31,-9,-4,-24,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,11-03-2021,-12,26,-2,-6,-36,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,12-03-2021,-11,31,-9,-3,-11,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,13-03-2021,-12,30,-11,-6,-13,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,14-03-2021,-15,23,-9,-3,-1,4
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,15-03-2021,-12,30,-12,-1,-4,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,16-03-2021,-15,28,-14,-5,-6,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,17-03-2021,-15,32,-15,-6,-2,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,18-03-2021,-14,32,-16,-5,-3,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,19-03-2021,-12,33,-16,-4,0,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,20-03-2021,-13,30,-11,-2,3,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,21-03-2021,-15,26,-7,-5,2,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,22-03-2021,-15,30,-13,-3,-1,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,23-03-2021,-16,30,-13,-4,-3,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,24-03-2021,-13,33,-14,-4,-2,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,25-03-2021,-11,35,-16,-3,-2,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,26-03-2021,-18,21,-20,-16,-13,11
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,27-03-2021,-11,31,-12,-1,1,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,28-03-2021,-16,21,-8,-6,4,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,29-03-2021,-13,29,-13,-9,-19,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,30-03-2021,-16,28,-14,-6,-3,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,31-03-2021,-15,29,-15,-7,-4,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,01-04-2021,-13,34,-16,-4,-4,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,02-04-2021,-11,36,-15,-9,-27,12
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,03-04-2021,-12,33,-11,-2,0,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,04-04-2021,-15,25,-9,-4,0,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,05-04-2021,-13,33,-13,-7,-18,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,06-04-2021,-13,34,-10,-2,-4,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,07-04-2021,-14,34,-11,-3,-8,5
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,08-04-2021,-15,32,-17,-8,-17,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,09-04-2021,1,37,-16,-1,-4,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,10-04-2021,-8,34,-13,-2,-9,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,11-04-2021,-12,27,-12,-6,4,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,12-04-2021,-4,49,-9,1,-9,6
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,13-04-2021,-17,19,-11,-15,-46,13
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,14-04-2021,-19,27,-16,-11,-32,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,15-04-2021,-15,35,-18,-5,-7,7
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,16-04-2021,-18,32,-20,-9,-6,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,17-04-2021,-21,28,-19,-11,-4,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,18-04-2021,-27,19,-21,-14,-4,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,19-04-2021,-22,28,-21,-12,-8,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,20-04-2021,-22,32,-21,-12,-13,10
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,21-04-2021,-31,20,-28,-24,-35,17
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,22-04-2021,-27,26,-28,-17,-16,12
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,23-04-2021,-30,22,-30,-20,-16,15
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,24-04-2021,-34,19,-30,-22,-16,15
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,25-04-2021,-40,9,-32,-27,-13,14
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,26-04-2021,-34,21,-30,-24,-20,15
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,27-04-2021,-38,15,-32,-26,-25,16
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,28-04-2021,-39,17,-33,-28,-26,16
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,29-04-2021,-38,16,-36,-28,-27,18
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,30-04-2021,-38,18,-35,-27,-25,18
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,01-05-2021,-42,14,-34,-29,-34,19
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,02-05-2021,-45,6,-36,-31,-19,16
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,03-05-2021,-40,14,-34,-30,-31,18
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,04-05-2021,-40,20,-34,-30,-34,17
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,05-05-2021,-59,-10,-46,-43,-41,22
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,06-05-2021,-56,-4,-44,-41,-41,23
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,07-05-2021,-57,-3,-45,-42,-40,24
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,08-05-2021,-58,-8,-46,-44,-43,25
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,09-05-2021,-58,-9,-44,-42,-27,20
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,10-05-2021,-57,-9,-44,-43,-40,24
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,11-05-2021,-57,-7,-44,-43,-42,23
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,01-01-2021,-21,65,18,-3,-22,16
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,02-01-2021,-25,56,12,-2,1,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,03-01-2021,-26,53,29,3,8,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,04-01-2021,-24,60,8,2,0,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,05-01-2021,-25,56,9,-1,-2,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,06-01-2021,-23,63,4,-3,0,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,07-01-2021,-25,56,4,-5,-6,16
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,08-01-2021,-19,73,15,4,-2,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,09-01-2021,-24,59,18,-5,-9,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,10-01-2021,-26,54,29,-4,18,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,11-01-2021,-20,66,17,-4,1,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,12-01-2021,-18,75,23,-1,-6,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,13-01-2021,-22,74,11,-7,-21,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,14-01-2021,-33,35,27,-23,-48,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,15-01-2021,-30,44,12,-21,-36,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,16-01-2021,-28,45,10,-17,-20,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,17-01-2021,-32,39,18,-11,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,18-01-2021,-25,56,9,-8,-6,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,19-01-2021,-26,52,14,-13,-8,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,20-01-2021,-25,61,7,-14,-4,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,21-01-2021,-26,56,5,-15,-3,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,22-01-2021,-25,56,7,-12,-1,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,23-01-2021,-28,46,9,-13,-1,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,24-01-2021,-30,46,23,-12,5,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,25-01-2021,-22,61,17,-12,-6,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,26-01-2021,-24,55,28,-13,-26,15
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,27-01-2021,-25,62,12,-12,-2,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,28-01-2021,-26,59,11,-15,-1,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,29-01-2021,-24,61,5,-11,1,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,30-01-2021,-26,59,4,-11,3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,31-01-2021,-29,57,10,-11,13,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,01-02-2021,-23,70,6,-9,-1,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,02-02-2021,-25,64,10,-10,-5,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,03-02-2021,-24,68,-1,-12,-4,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,04-02-2021,-25,64,-6,-13,-5,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,05-02-2021,-22,62,-8,-11,-3,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,06-02-2021,-26,53,-6,-13,-2,6
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,07-02-2021,-27,49,6,-10,0,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,08-02-2021,-25,60,-8,-10,-7,6
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,09-02-2021,-27,55,-3,-11,-10,6
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,10-02-2021,-24,67,-9,-10,-6,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,11-02-2021,-26,61,-7,-15,-4,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,12-02-2021,-18,62,-3,-4,-5,6
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,13-02-2021,-23,50,5,-12,-20,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,14-02-2021,-21,57,19,-5,-2,6
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,15-02-2021,-20,65,1,-6,-5,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,16-02-2021,-23,62,3,-7,-10,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,17-02-2021,-25,62,-3,-11,-15,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,18-02-2021,-21,75,-3,-7,-7,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,19-02-2021,-25,55,-11,-12,-4,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,20-02-2021,-22,63,-2,-8,-1,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,21-02-2021,-27,50,11,-13,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,22-02-2021,-19,67,3,-7,-4,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,23-02-2021,-22,62,3,-11,-4,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,24-02-2021,-21,68,-1,-11,-3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,25-02-2021,-22,66,-4,-9,-3,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,26-02-2021,-20,69,-8,-5,0,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,27-02-2021,-23,59,3,-5,-3,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,28-02-2021,-23,56,12,-4,2,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,01-03-2021,-21,68,1,-5,-2,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,02-03-2021,-21,65,3,-7,-3,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,03-03-2021,-21,71,-2,-7,-3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,04-03-2021,-21,71,-3,-9,-2,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,05-03-2021,-23,65,-6,-13,-10,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,06-03-2021,-21,69,-1,-6,3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,07-03-2021,-23,61,11,-6,3,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,08-03-2021,-21,70,1,-6,-3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,09-03-2021,-22,69,3,-4,-6,7
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,10-03-2021,-36,47,-2,-9,-29,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,11-03-2021,-17,72,11,-6,-29,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,12-03-2021,-20,62,-2,-7,-14,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,13-03-2021,-21,61,0,-11,-16,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,14-03-2021,-33,39,7,-9,-8,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,15-03-2021,-16,73,2,-1,-2,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,16-03-2021,-21,62,4,-8,-4,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,17-03-2021,-21,71,-5,-7,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,18-03-2021,-22,65,-5,-9,-2,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,19-03-2021,-18,67,-7,-5,2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,20-03-2021,-21,59,-3,-8,4,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,21-03-2021,-24,56,7,-10,4,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,22-03-2021,-20,65,-4,-7,0,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,23-03-2021,-22,64,-1,-8,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,24-03-2021,-19,74,-2,-8,-2,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,25-03-2021,-19,74,-3,-7,0,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,26-03-2021,-26,57,-7,-18,-11,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,27-03-2021,-18,66,1,-5,2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,28-03-2021,-25,54,7,-10,12,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,29-03-2021,-19,66,2,-13,-17,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,30-03-2021,-20,64,2,-9,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,31-03-2021,-18,72,-2,-9,-7,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,01-04-2021,-18,75,-1,-6,-2,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,02-04-2021,-13,75,-2,-5,-22,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,03-04-2021,-19,66,0,-7,3,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,04-04-2021,-22,61,9,-8,3,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,05-04-2021,-18,68,0,-8,-16,13
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,06-04-2021,-18,67,5,-6,-2,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,07-04-2021,-19,71,-4,-7,-6,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,08-04-2021,-22,61,-5,-13,-17,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,09-04-2021,-10,79,-3,1,0,10
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,10-04-2021,-14,72,2,-1,-6,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,11-04-2021,-14,72,12,-2,8,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,12-04-2021,0,113,17,5,-8,9
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,13-04-2021,-30,39,21,-18,-54,18
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,14-04-2021,-29,57,10,-15,-40,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,15-04-2021,-20,79,2,-4,-6,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,16-04-2021,-19,73,-4,-6,-1,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,17-04-2021,-23,65,-1,-12,2,11
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,18-04-2021,-28,56,5,-13,0,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,19-04-2021,-21,72,1,-11,-1,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,20-04-2021,-23,71,5,-12,-6,12
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,21-04-2021,-31,57,-3,-23,-30,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,22-04-2021,-27,67,-4,-17,-8,14
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,23-04-2021,-25,68,-5,-14,-6,15
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,24-04-2021,-28,60,-2,-20,-7,15
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,25-04-2021,-35,48,2,-24,-6,17
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,26-04-2021,-29,59,-3,-19,-9,16
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,27-04-2021,-32,50,4,-16,-14,16
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,28-04-2021,-33,59,-4,-22,-15,18
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,29-04-2021,-35,55,-6,-25,-16,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,30-04-2021,-33,59,-6,-21,-12,17
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,01-05-2021,-34,54,-4,-25,-26,20
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,02-05-2021,-39,46,-1,-29,-12,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,03-05-2021,-37,49,-2,-26,-20,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,04-05-2021,-37,53,-1,-27,-24,19
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,05-05-2021,-51,30,-11,-38,-31,23
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,06-05-2021,-51,30,-9,-38,-31,24
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,07-05-2021,-50,34,-13,-36,-29,24
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,08-05-2021,-52,27,-12,-39,-36,25
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,09-05-2021,-68,-19,-16,-49,-37,27
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,10-05-2021,-49,38,-8,-36,-35,24
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,11-05-2021,-51,31,-8,-39,-37,25
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,01-01-2021,-20,26,3,-22,-28,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,02-01-2021,-26,27,-15,-21,-1,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,03-01-2021,-27,25,0,-20,10,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,04-01-2021,-22,34,-7,-13,-2,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,05-01-2021,-33,6,-14,-23,-8,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,06-01-2021,-24,23,-14,-19,-5,17
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,07-01-2021,-20,40,-11,-16,-5,16
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,08-01-2021,-19,38,-12,-17,-3,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,09-01-2021,-17,38,-10,-18,-8,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,10-01-2021,-16,34,0,-19,13,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,11-01-2021,-12,45,-3,-12,-3,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,12-01-2021,-8,50,1,-6,-11,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,13-01-2021,-15,40,-7,-10,-37,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,14-01-2021,-30,12,1,-24,-55,17
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,15-01-2021,-28,10,2,-28,-47,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,16-01-2021,-23,16,-6,-24,-27,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,17-01-2021,-27,12,1,-19,-6,5
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,18-01-2021,-19,32,-3,-14,-10,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,19-01-2021,-20,27,-1,-21,-12,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,20-01-2021,-18,38,-6,-17,-11,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,21-01-2021,-20,34,-6,-22,-9,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,22-01-2021,-19,32,-6,-23,-6,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,23-01-2021,-18,28,-8,-21,-1,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,24-01-2021,-21,26,9,-21,5,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,25-01-2021,-15,34,5,-15,-4,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,26-01-2021,-16,33,13,-20,-30,16
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,27-01-2021,-17,34,-4,-17,-7,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,28-01-2021,-20,35,-7,-20,-5,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,29-01-2021,-19,35,-9,-21,-3,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,30-01-2021,-19,34,-11,-20,3,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,31-01-2021,-22,33,-3,-20,6,7
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,01-02-2021,-20,42,-6,-15,-3,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,02-02-2021,-20,39,-3,-17,-6,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,03-02-2021,-17,43,-11,-16,-8,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,04-02-2021,-20,41,-12,-19,-8,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,05-02-2021,-17,41,-10,-19,-5,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,06-02-2021,-16,38,-10,-16,0,7
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,07-02-2021,-17,31,3,-16,1,7
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,08-02-2021,-18,37,-6,-11,-7,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,09-02-2021,-21,32,-4,-17,-15,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,10-02-2021,-16,42,-9,-12,-7,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,11-02-2021,-18,42,-9,-14,-7,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,12-02-2021,-9,42,-10,-9,-6,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,13-02-2021,-9,38,-4,-10,-19,7
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,14-02-2021,-9,37,6,-6,0,5
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,15-02-2021,-13,40,-3,-5,-5,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,16-02-2021,-15,35,-3,-9,-8,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,17-02-2021,-14,40,-9,-10,-10,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,18-02-2021,-15,45,-9,-9,-6,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,19-02-2021,-14,39,-14,-11,-4,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,20-02-2021,-14,36,-12,-11,-2,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,21-02-2021,-16,31,1,-12,-1,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,22-02-2021,-14,43,-3,-5,-4,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,23-02-2021,-15,37,-2,-9,-6,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,24-02-2021,-13,40,-10,-7,-6,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,25-02-2021,-16,37,-11,-10,-6,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,26-02-2021,-13,41,-11,-11,-2,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,27-02-2021,-13,38,-11,-11,2,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,28-02-2021,-16,35,1,-12,4,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,01-03-2021,-16,41,-6,-6,0,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,02-03-2021,-17,38,-7,-11,-5,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,03-03-2021,-15,42,-11,-9,-4,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,04-03-2021,-15,43,-14,-11,-4,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,05-03-2021,-17,39,-12,-18,-12,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,06-03-2021,-14,40,-9,-12,7,8
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,07-03-2021,-18,34,3,-12,7,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,08-03-2021,-17,42,-5,-8,0,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,09-03-2021,-18,38,-4,-10,-6,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,10-03-2021,-17,47,-10,-6,-20,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,11-03-2021,-19,30,2,-13,-37,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,12-03-2021,-15,38,-11,-12,-10,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,13-03-2021,-15,33,-12,-14,-12,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,14-03-2021,-19,30,-6,-13,4,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,15-03-2021,-16,38,-11,-7,-2,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,16-03-2021,-19,32,-11,-13,-5,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,17-03-2021,-17,37,-16,-11,-2,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,18-03-2021,-17,39,-18,-13,-2,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,19-03-2021,-14,39,-16,-14,2,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,20-03-2021,-15,34,-15,-13,7,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,21-03-2021,-18,30,-6,-15,6,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,22-03-2021,-17,37,-13,-9,4,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,23-03-2021,-18,34,-11,-13,-1,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,24-03-2021,-13,40,-17,-11,-3,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,25-03-2021,-14,39,-18,-12,-1,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,26-03-2021,-16,33,-17,-21,-11,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,27-03-2021,-12,35,-16,-12,6,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,28-03-2021,-18,26,-7,-15,6,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,29-03-2021,-16,33,-11,-13,-16,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,30-03-2021,-17,32,-11,-14,-2,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,31-03-2021,-15,35,-18,-13,-4,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,01-04-2021,-16,42,-18,-12,-4,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,02-04-2021,-11,48,-14,-14,-24,16
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,03-04-2021,-11,41,-14,-11,4,9
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,04-04-2021,-16,34,-6,-13,3,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,05-04-2021,-15,44,-10,-11,-17,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,06-04-2021,-13,41,4,-10,-4,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,07-04-2021,-13,42,1,-7,-7,10
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,08-04-2021,-16,42,-17,-14,-15,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,09-04-2021,-4,44,-18,-9,0,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,10-04-2021,-8,41,-16,-10,-4,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,11-04-2021,-12,36,-10,-13,10,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,12-04-2021,-7,57,-11,-3,-9,11
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,13-04-2021,-23,26,-16,-22,-49,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,14-04-2021,-21,32,-21,-20,-35,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,15-04-2021,-17,40,-25,-15,-9,12
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,16-04-2021,-20,38,-24,-22,-7,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,17-04-2021,-25,29,-25,-27,-13,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,18-04-2021,-28,25,-22,-26,1,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,19-04-2021,-23,35,-23,-19,-5,15
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,20-04-2021,-23,35,-20,-22,-11,14
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,21-04-2021,-28,28,-33,-29,-33,21
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,22-04-2021,-26,34,-31,-25,-14,16
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,23-04-2021,-29,29,-34,-30,-12,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,24-04-2021,-31,26,-34,-33,-11,17
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,25-04-2021,-39,15,-33,-40,-9,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,26-04-2021,-33,28,-30,-29,-16,18
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,27-04-2021,-45,3,-36,-37,-24,20
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,28-04-2021,-43,12,-38,-38,-27,21
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,29-04-2021,-44,12,-39,-39,-27,22
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,30-04-2021,-43,14,-39,-40,-24,22
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,01-05-2021,-44,12,-41,-43,-32,22
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,02-05-2021,-47,9,-38,-45,-15,20
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,03-05-2021,-43,15,-35,-38,-30,22
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,04-05-2021,-45,12,-37,-42,-34,21
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,05-05-2021,-54,-2,-45,-49,-40,25
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,06-05-2021,-55,2,-45,-49,-39,26
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,07-05-2021,-55,1,-45,-51,-37,27
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,08-05-2021,-57,-5,-49,-55,-41,27
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,09-05-2021,-56,0,-43,-53,-22,23
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,10-05-2021,-56,-3,-43,-51,-37,27
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,11-05-2021,-56,-5,-41,-52,-41,26
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,01-01-2021,-7,30,-15,-4,-20,14
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,02-01-2021,-15,32,-20,-2,-1,12
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,03-01-2021,-19,17,-19,0,9,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,04-01-2021,-12,31,-24,0,-4,11
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,05-01-2021,-14,28,-22,2,-6,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,06-01-2021,-10,30,-21,0,-2,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,07-01-2021,-7,35,-19,2,-6,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,08-01-2021,-6,35,-20,2,-5,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,09-01-2021,-1,36,-14,2,-12,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,10-01-2021,-3,27,-12,4,13,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,11-01-2021,9,45,-16,7,-6,8
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,12-01-2021,19,62,-5,23,-12,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,13-01-2021,14,51,-8,13,-31,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,14-01-2021,0,33,4,11,-55,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,15-01-2021,-5,22,9,2,-54,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,16-01-2021,-4,23,3,5,-36,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,17-01-2021,-16,10,-6,11,-14,2
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,18-01-2021,-6,25,-19,5,-16,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,19-01-2021,-13,20,-20,-2,-14,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,20-01-2021,-12,21,-23,-5,-8,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,21-01-2021,-12,22,-26,-8,-10,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,22-01-2021,-13,21,-24,-8,-7,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,23-01-2021,-11,22,-17,-3,-5,8
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,24-01-2021,-19,10,-15,-6,1,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,25-01-2021,-10,22,-22,-6,-8,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,26-01-2021,-13,19,-15,-10,-28,11
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,27-01-2021,-15,17,-25,-9,-3,8
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,28-01-2021,-14,19,-26,-9,-7,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,29-01-2021,-14,19,-27,-9,-5,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,30-01-2021,-13,22,-18,-5,-1,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,31-01-2021,-20,15,-16,-6,3,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,01-02-2021,-14,24,-26,-6,-8,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,02-02-2021,-16,24,-23,-5,-9,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,03-02-2021,-15,24,-27,-10,-5,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,04-02-2021,-14,26,-29,-9,-11,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,05-02-2021,-13,23,-29,-10,-8,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,06-02-2021,-11,24,-23,-7,-3,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,07-02-2021,-18,12,-20,-7,-3,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,08-02-2021,-13,22,-28,-5,-15,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,09-02-2021,-18,20,-27,-7,-19,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,10-02-2021,-14,23,-28,-9,-7,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,11-02-2021,-13,24,-28,-8,-9,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,12-02-2021,-1,24,-23,0,-10,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,13-02-2021,-3,21,-16,-1,-20,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,14-02-2021,-5,15,-12,-1,-3,2
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,15-02-2021,-7,23,-24,0,-10,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,16-02-2021,-11,19,-21,-2,-11,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,17-02-2021,-11,21,-25,-6,-4,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,18-02-2021,-9,28,-25,-3,-7,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,19-02-2021,-11,19,-23,-4,-5,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,20-02-2021,-10,22,-19,-2,-4,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,21-02-2021,-15,13,-13,-2,-5,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,22-02-2021,-9,26,-20,2,-8,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,23-02-2021,-13,21,-16,1,-8,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,24-02-2021,-12,22,-25,-6,-2,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,25-02-2021,-12,24,-25,-3,-6,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,26-02-2021,-10,22,-23,-5,-3,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,27-02-2021,-8,23,-16,-2,-3,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,28-02-2021,-15,15,-13,-5,-1,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,01-03-2021,-11,26,-23,-2,-4,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,02-03-2021,-14,24,-22,-4,-5,3
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,03-03-2021,-12,25,-24,-7,0,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,04-03-2021,-11,28,-25,-5,-3,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,05-03-2021,-15,21,-23,-14,-13,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,06-03-2021,-8,28,-14,-4,4,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,07-03-2021,-15,17,-13,-6,-2,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,08-03-2021,-8,22,-21,-3,-5,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,09-03-2021,-13,23,-18,-3,-6,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,10-03-2021,-10,25,-21,-4,-7,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,11-03-2021,-9,19,-15,-4,-38,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,12-03-2021,-7,22,-21,-2,-4,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,13-03-2021,-5,24,-17,-7,-13,8
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,14-03-2021,-15,16,-17,-4,-1,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,15-03-2021,-8,23,-23,-2,-5,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,16-03-2021,-15,19,-21,-6,-6,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,17-03-2021,-13,22,-25,-8,1,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,18-03-2021,-11,25,-23,-5,-3,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,19-03-2021,-8,24,-23,-6,0,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,20-03-2021,-7,26,-16,-4,4,4
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,21-03-2021,-15,17,-18,-9,0,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,22-03-2021,-10,23,-23,-4,-3,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,23-03-2021,-14,23,-22,-6,-4,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,24-03-2021,-10,24,-25,-8,0,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,25-03-2021,-9,26,-27,-6,-3,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,26-03-2021,-14,14,-28,-17,-12,11
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,27-03-2021,-5,26,-18,-4,1,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,28-03-2021,-16,14,-20,-9,0,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,29-03-2021,-8,24,-24,-11,-22,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,30-03-2021,-15,19,-25,-8,-5,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,31-03-2021,-13,20,-27,-12,-1,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,01-04-2021,-10,25,-26,-7,-5,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,02-04-2021,-7,26,-25,-13,-29,12
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,03-04-2021,-4,30,-16,-4,0,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,04-04-2021,-15,17,-19,-8,-2,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,05-04-2021,-9,28,-24,-10,-20,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,06-04-2021,-11,28,-20,-3,-6,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,07-04-2021,-10,26,-24,-6,-8,5
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,08-04-2021,-9,30,-25,-8,-21,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,09-04-2021,8,32,-23,-2,-5,6
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,10-04-2021,1,33,-17,-3,-9,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,11-04-2021,-12,20,-20,-10,1,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,12-04-2021,4,45,-20,-1,-8,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,13-04-2021,-7,20,-20,-12,-44,12
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,14-04-2021,-7,30,-24,-7,-27,8
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,15-04-2021,-8,31,-25,-5,-6,7
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,16-04-2021,-11,29,-25,-9,-4,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,17-04-2021,-12,29,-23,-9,0,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,18-04-2021,-23,16,-27,-14,-5,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,19-04-2021,-13,29,-30,-11,-8,10
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,20-04-2021,-17,32,-30,-10,-12,9
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,21-04-2021,-22,20,-37,-23,-31,15
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,22-04-2021,-21,22,-37,-15,-13,12
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,23-04-2021,-20,27,-36,-16,-12,13
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,24-04-2021,-24,23,-34,-19,-12,14
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,25-04-2021,-36,7,-40,-25,-13,14
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,26-04-2021,-26,24,-38,-22,-17,15
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,27-04-2021,-33,17,-41,-24,-22,14
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,28-04-2021,-37,9,-45,-31,-20,16
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,29-04-2021,-35,13,-46,-28,-24,18
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,30-04-2021,-35,16,-44,-27,-22,17
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,01-05-2021,-38,15,-41,-29,-31,19
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,02-05-2021,-46,1,-45,-32,-19,17
