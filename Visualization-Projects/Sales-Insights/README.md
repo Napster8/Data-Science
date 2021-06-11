@@ -1,4 +1,4 @@
-# Sales Insights Project
+# Sales Insights Power BI Dashboard
 
 ![Sales Insight Image](https://github.com/Napster8/Data-Science/blob/ab9da644795466dd2a9c5f6e60113b488a47bf07/Visualization-Projects/Sales-Insights/sales-insight.jpg)
 
