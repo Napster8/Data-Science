@@ -5,11 +5,14 @@
 
 ## :world_map: Navigate to:
 
-### 
+#### Projects
+
+* Real Estate Price Estimation [Github Repo](https://github.com/Napster8/real-estate-price-predictor)
+* COVID-19 Age Risk Analysis [Github Repo](https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis)
 
 ### Visualization Projects
 
-  - Google COVID-19 Mobility - Tableau - [Github Repository](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Google-COVID-Mobility-Dashboard-Enhanced)
+  - Google COVID-19 Mobility - Tableau - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Google-COVID-Mobility-Dashboard-Enhanced)
  
   - Business Sales Insights - PowerBI - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insights)
 
@@ -33,7 +36,7 @@
   - Naive Bayes Formulation
   - Hyper parameter Tuning
   - Regularization
-  - Project Deployment - Real Estate Price Estimation [Github Repo](https://github.com/Napster8/real-estate-price-predictor)
+  
  
 ### Deep Learning :part_alternation_mark:
 
