@@ -9,6 +9,7 @@
 
 * Real Estate Price Estimation [Github Repo](https://github.com/Napster8/real-estate-price-predictor) - Deployed Flask + Heroku
 * COVID-19 Age Risk Analysis [Kaggle Submission](https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis) - The first one to carry out the analysis.
+* Heart Disease Prediction [Github Repo](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/07-Scikit-Overview/01-heart-disease-prediction.ipynb)
 
 ### Visualization Projects
 
