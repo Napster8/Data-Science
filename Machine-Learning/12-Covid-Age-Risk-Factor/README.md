@@ -12,6 +12,8 @@ https://www.kaggle.com/saurabhshahane/covid19-age-risk-factor
 
 https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis
 
+![alt text](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor/kaggle-image.jpg "COVID-Age_RISK-FACTOR")
+
 Excel dataset with the following columns: Case No., Age, Sex, Nationality, Status, Transmission. 
 
 Data were extracted from https://endcov.ph/cases/
