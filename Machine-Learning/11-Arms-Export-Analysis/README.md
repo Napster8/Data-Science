@@ -1,8 +1,8 @@
-# Brother in Arms
+# Brother in Arms :bow_and_arrow:
 
 Kaggle Dataset: https://www.kaggle.com/dell4010/brothers-in-arms
 
-Context
+**Context**
 
 Arms trade tells a lot about what is happening in the world. How countries are building their arsenal in the modern times.
 Is future going to be peaceful or is it just the calm before the storm. What are different countries up to in ?
@@ -37,5 +37,11 @@ Files can be used to answer multiple questions such as
 Special Note: The analysis is done only for educational purposes.
 
 Work by: Raghavendra Tapas
+
+## Kaggle Submission:
+
+Second one to upload within a span of 6 hours of dataset upload.
+
+![alt text](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/11-Arms-Export-Analysis/kaggle-image.jpg "Bengaluru Real Estate Home Price Predictor")
 
 ################################################################################
