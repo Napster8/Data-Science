@@ -10,6 +10,8 @@ https://www.kaggle.com/saurabhshahane/covid19-age-risk-factor
 
 ## Kaggle: Solution Submitted on: 8th June 2021
 
+The first one to submit the solution.
+
 https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis
 
 ![alt text](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor/kaggle-image.jpg "COVID-Age_RISK-FACTOR")
