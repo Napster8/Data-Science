@@ -9,3 +9,5 @@ Navigate to the Repository to see more about it: [Link](https://github.com/Napst
 ## Microsoft PowerBI - Business Sales Insight
 
 ![Sales Insight Image](https://github.com/Napster8/Data-Science/blob/ab9da644795466dd2a9c5f6e60113b488a47bf07/Visualization-Projects/Sales-Insights/sales-insight.jpg)
+
+Navigate to the Repository to see more about it: [Link](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insightshttps://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insights)
