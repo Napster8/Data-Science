@@ -14,11 +14,8 @@
 ### Visualization Projects
 
   - Google COVID-19 Mobility - Tableau - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Google-COVID-Mobility-Dashboard-Enhanced)
- 
   - Business Sales Insights - PowerBI - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Visualization-Projects/Sales-Insights)
-
   - IPL Analysis - Kaggle Submission - [Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/04-Matplot/IPL-ANALYSIS)
-
   - Quality of Life in Countries - Kaggle Submission - [Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/04-Matplot/QualityOfLife)
 
 ### SQL
