@@ -33,6 +33,17 @@
   - Hyper parameter Tuning
   - Regularization
  
+ ### Deep Learning :part_alternation_mark:
+
+  * Artificial Neural Networks (ANN)
+  * Convolutional Neural Networks (CNN)
+    * Rectifier Linear Unit (ReLU)
+    * Pooling
+    * Flattening
+    * Softmax and Cross-Entropy
+  
+  * Recurrent neural network (RNN)
+
  ### Python 
   - Basic syntax
     - Notion Blog for a deeper Dive into Python. [Link](https://www.notion.so/raghavendratapas/Python-102ff321e28741a899e72ea6c1c293f0)
@@ -40,7 +51,6 @@
   - Pandas
   - Matplotlib and Seaborn
  
-### Deep Learning :part_alternation_mark:
 
 
 
