@@ -4,29 +4,26 @@
 
 <b> Context:</b> My Journey so far. Under Active Development! Feel free to contribute to the projects.
 
-## Python Programming :snake:
+### Python :snake:
 
-- Basics Syntax - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/01-Python/01-python-syntax.ipynb)
+- FEA Structural safety analysis of a Truss. [Link](https://github.com/Napster8/FEA--Truss-Problem-Solving-using-Python)
 
-  - Deeper Dive on Python Syntax - [My Notion Blog](https://www.notion.so/raghavendratapas/Python-102ff321e28741a899e72ea6c1c293f0)
+### EDA Projects:
 
-* NumPy - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/03-Numpy/03-numpy.ipynb)
-* Pandas - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/02-Pandas/02-pandas.ipynb)
-* MatplotLib - [Github Preview](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/04-Matplot/04-matplot-visuals.ipynb)
-  * Indian Premier League (Kaggle) - Exploratory Data Analysis [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/04-Matplot/IPL-ANALYSIS)
+* COVID-19 - Age as a Risk Factor to predict survival rate - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor)
 
-## Machine Learning :robot: 
+### Statistical Projects:
 
-I've worked on the repository that enlists alot of conceptual understanding and lots of important concepts covered. [Machine Learning Repository](https://github.com/Napster8/Data-Science)
+Just because you can use numerous machine learning models, tune hyper-parameters using Grid or Randomize searching techniques and use soft voting techniques to finally arrive at ensemble model that has the highest accuracy to get the job done, does not mean, you should. 
 
-- Regression and Decision Trees - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/05-Regression)
-- Encoding Methods - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/06-preprocessing)
-- Support Vector Machines, Random Forest, Cross Validation, K-Clustering - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/08-Support-vector-machines)
-- Naive Bayes Formulation [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/09-Naive-Bayes-Formulation)
-- Hyper Parameter Tuning and Regularization [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/10-Hyper-Parameter-Tuning)
+Core idea must be to solve the business problem. This project has been a cornerstone to learn just that.
 
-### Projects:
+- Customer Segmentation Based on Recency, Frequency and Monetary Values(RFM) for E-Commerce Data. [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/14-e-commerce-purchase-history/RFM_analysis.ipynb)
 
-* COVID-Age Risk Factor - [Github Repo](https://github.com/Napster8/Data-Science/tree/Napster8/Machine-Learning/12-Covid-Age-Risk-Factor)
-  * Kaggle Contribution - [Link](https://www.kaggle.com/raghavendratapas/covid-19-age-risk-factor-exploratory-analysis)
+### Machine Learning: :robot: 
 
+- Credit Card Fraud Detection using Machine Learning Models - [Notion Blog](https://www.notion.so/raghavendratapas/Handling-Imbalance-Datasets-in-Classification-Problems-130948b532f34bb1a261a81a08f771c0)
+
+## Deep Learning :robot: 
+
+- Churn modelling on Bank data using ANN. - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Deep-Learning/01-ANN/artificial_neural_network.ipynb)
