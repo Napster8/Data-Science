@@ -2,7 +2,7 @@
 
 :raising_hand_man: <b> Author:</b> Raghavendra Tapas
 
-<b> Context:</b> My Journey so far. Under Active Development! Feel free to contribute to the projects.
+<b> Context:</b> Under Active Development!
 
 ### Python :snake:
 
@@ -21,6 +21,10 @@ Core idea must be to solve the business problem. This project has been a corners
 - Customer Segmentation Based on Recency, Frequency and Monetary Values(RFM) for E-Commerce Data. [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/14-e-commerce-purchase-history/RFM_analysis.ipynb)
 
 ### Machine Learning: :robot: 
+
+- Predictive Maintenance of Machinery in Factories. - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/13-predictive_maintainence/Machine-Predictive-Maintenance-Classification.ipynb)
+
+An interesting project where there are two Target Variables to begin with. 
 
 - Credit Card Fraud Detection using Machine Learning Models - [Notion Blog](https://www.notion.so/raghavendratapas/Handling-Imbalance-Datasets-in-Classification-Problems-130948b532f34bb1a261a81a08f771c0)
 
