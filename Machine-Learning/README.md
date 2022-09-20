@@ -15,7 +15,7 @@
     - Checking if Lists are sorted or not.
     - Finding a Number that occurs odd number of times.
     - Reversing a list.
-    - Left Rotating by `d` places. (multiple implementations discussed.
+    - Left Rotating by `d` places. (multiple implementations discussed).
 - String - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/02_string.ipynb)
 - Functions and Classes - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/03_functions_and_classes.ipynb)
 - FEA Structural safety analysis of a Truss. [Link](https://github.com/Napster8/FEA--Truss-Problem-Solving-using-Python)
