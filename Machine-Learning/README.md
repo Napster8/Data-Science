@@ -5,7 +5,7 @@
 <b> Context:</b> Under Active Development!
 
 ### Python :snake:
-
+- List - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/01_list.ipynb)
 - FEA Structural safety analysis of a Truss. [Link](https://github.com/Napster8/FEA--Truss-Problem-Solving-using-Python)
 
 ### EDA Projects:
